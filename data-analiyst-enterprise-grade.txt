@@ -1,0 +1,25 @@
+ROADMAP DATA ANALYST — ENTERPRISE GRADE
+1. FUNDAMENTALS ( pondasi wajib )
+  Outcome: bisa membaca data, memahami konteks bisnis, dan siap masuk workflow analytics.
+    
+  1.1. Business & Analytical Mindset
+    * Critical thinking: problem → hypothesis → data → insight.
+    * KPI & Metrics: revenue, churn, retention, CAC, LTV, conversion funnel.
+    * Domain knowledge: sales, marketing, finance, operations.
+      
+  1.2. Spreadsheet Mastery (Excel/Google Sheets)
+    * VLOOKUP/XLOOKUP, INDEX-MATCH
+    * Pivot Table
+    * Conditional formatting
+    * Basic charts
+  > Ini baseline skill semua Data Analyst.
+      
+2. SQL MASTERCLASS ( core skill 80% pekerjaan )
+3. DATA MANIPULATION (Python)
+4. EDA — Exploratory Data Analysis
+5. DATA VISUALIZATION & STORYTELLING
+6. STATISTICS FOR ANALYTICS
+7. BUSINESS ANALYTICS (mid-level skill)
+8. DATA WAREHOUSE & BI PIPELINE
+9. PRODUCTIVITY & ENTERPRISE SKILLS
+10. PORTFOLIO BUILDING (wajib kalau mau cepat dapat kerja)
