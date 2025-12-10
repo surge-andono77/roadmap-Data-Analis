@@ -15,6 +15,23 @@ ROADMAP DATA ANALYST — ENTERPRISE GRADE
   > Ini baseline skill semua Data Analyst.
       
 2. SQL MASTERCLASS ( core skill 80% pekerjaan )
+  Outcome: mampu query data skala enterprise di warehouse (BigQuery, Snowflake, Redshift).
+
+  2.1. SQL Dasar
+    * SELECT, WHERE, ORDER BY
+    * LIMIT, DISTINCT
+  
+  2.2. SQL Menengah
+    * JOIN (inner, left, right, full)
+    * GROUP BY + Aggregate
+  
+  2.3. SQL Advanced
+    * Window Function (RANK, ROW_NUMBER, LAG, LEAD)
+    * CTE & Subquery
+    * Pivot/Unpivot
+    * Performance tuning (index, clustering)
+  > *SQL adalah skill paling krusial — tidak bisa dinegosiasikan.*
+
 3. DATA MANIPULATION (Python)
 4. EDA — Exploratory Data Analysis
 5. DATA VISUALIZATION & STORYTELLING
