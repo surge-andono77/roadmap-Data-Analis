@@ -47,9 +47,69 @@ ROADMAP DATA ANALYST — ENTERPRISE GRADE
       * feature engineering
 
 4. EDA — Exploratory Data Analysis
+  Outcome: dari dataset raw → insight yang actionable.
+    Step:
+      * Univariate analysis
+      * Bivariate/multivariate
+      * Data profiling
+      * Correlation analysis
+      Tools: Pandas, Matplotlib, Seaborn.
+
 5. DATA VISUALIZATION & STORYTELLING
+  Outcome: bisa menjual insight ke manajemen secara powerful.
+    Tools (wajib pilih salah satu, idealnya dua):
+      * Power BI (enterprise corporate)
+      * Tableau (analytics heavy)
+      * Looker Studio (entry level)
+    Skill:
+      * Build dashboard end-to-end
+      * KPI tracking
+      * Drill-through & filters
+      * Design principle (UX, color, hierarchy)
+
 6. STATISTICS FOR ANALYTICS
+  Outcome: bisa validasi insight secara kuantitatif.
+    Materi inti:    
+      * Descriptive statistics
+      * Probability
+      * Distribution
+      * Hypothesis testing: t-test, chi-square
+      * A/B Testing
+      * Confidence interval
+    > Fokus ke statistik terapan, bukan teori.
+
 7. BUSINESS ANALYTICS (mid-level skill)
+  Outcome: bisa menjawab pertanyaan bisnis dengan model analitis.
+    Use cases:
+      * Cohort & retention
+      * Segmentation
+      * Funnel analysis
+      * Forecasting sederhana
+      * Revenue analysis
+      * Customer behavior analytics
+
 8. DATA WAREHOUSE & BI PIPELINE
+  Outcome: paham cara data mengalir dari source → warehouse → dashboard.
+    Pelajari:
+      * ETL/ELT
+      * Star schema (facts + dimensions)
+      * Data orchestration (Airflow, Prefect)
+      * Cloud warehouse (BigQuery/Snowflake/Redshift)
+
 9. PRODUCTIVITY & ENTERPRISE SKILLS
-10. PORTFOLIO BUILDING (wajib kalau mau cepat dapat kerja)
+  Outcome: siap kerja tanpa babysitting.
+    Skill tambahan:
+      * Git (version control)
+      * Jira/Confluence (workflow)
+      * Stakeholder management
+      * Requirement gathering
+      * Email professionalism
+
+10. PORTFOLIO BUILDING (wajib)
+   Minimal 5 project portfolio:
+    1. SQL analytics case
+    2. Python EDA + data cleaning
+    3. Dashboard (Power BI / Tableau)
+    4. Cohort analysis
+    5. End-to-end mini pipeline
+       (ETL → Warehouse → Dashboard)
